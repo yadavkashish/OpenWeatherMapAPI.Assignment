@@ -1,0 +1,21 @@
+{
+  "name": "weather-order-tracker",
+  "version": "1.0.0",
+  "description": "Weather-Based Order Delay Detection System",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "keywords": [
+    "weather",
+    "order-tracker",
+    "delivery-delay",
+    "openweathermap"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7"
+  }
+}
